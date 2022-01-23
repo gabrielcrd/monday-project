@@ -1,2 +1,2 @@
-# Dashboard Rotina IM <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Dashboard de Gerenciamento de Atividades da IM <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Project Rotina IM - Monday Dashboard
